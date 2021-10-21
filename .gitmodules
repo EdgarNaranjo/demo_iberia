@@ -2,3 +2,8 @@
 	path = EdgarNaranjo/demo14_iberia
 	url = git@github.com:EdgarNaranjo/demo14_iberia.git
 	branch = hr_demo00
+
+[submodule "EdgarNaranjo/hr_demo00"]
+	path = EdgarNaranjo/hr_demo00
+	url = git@github.com:EdgarNaranjo/demo14_iberia.git
+	branch = hr_demo00
